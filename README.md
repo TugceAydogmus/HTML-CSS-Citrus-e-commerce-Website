@@ -8,7 +8,6 @@ I have used HTML5 and CSS3 versions.
 - You can add the type of citrus you want to your cart by going to the grocery section or you can save the ones you like.
 
 
-![[citrus-e-commerce-website 1.png]]
 ![citrus-e-commerce-website](https://user-images.githubusercontent.com/109484547/180875184-0aa87eb6-226f-4c35-ac0b-4815ab3aefd6.png)
 
 
