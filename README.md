@@ -1,5 +1,5 @@
 # HTML - CSS Mandalina e-commerce WebSite for Citrus 
-_It is built with HTNL and CSS. This is the website created for the sale of citruses._
+_It is built with HTML and CSS. This is the website created for the sale of citruses._
 
 I have used HTML5 and CSS3 versions.
 
